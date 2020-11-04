@@ -1,2 +1,3 @@
 # EatFromHere
-Android course project
+Android course project.
+Restaurant searcher and recommender app.
